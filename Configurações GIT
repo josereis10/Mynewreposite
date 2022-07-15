@@ -4,9 +4,7 @@
 
 Comando para listar chaves existentes: ls -al ~/.ssh
 Criar chave: ssh-keygen -t ed25519 -C "your_email@example.com"
-Criar chave RSA: ssh-keygen -t rsa -b 4096 -C "your_email@example.com"
-
-senha: sshgit
+Criar chave RSA: ssh-keygen -t rsa -b 4096 -C "your_email@example.com
 
 -----Passos para adicionar chave privada no ssh-agent
 
